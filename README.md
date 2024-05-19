@@ -1,4 +1,4 @@
- ////[![main](https://github.com/Lgvju/CourseProject-aqa-qamid/actions/workflows/gradle-publish.yml/badge.svg)](https://github.com/Lgvju/CourseProject-aqa-qamid/actions/workflows/gradle-publish.yml)
+[![Build status](https://ci.appveyor.com/api/projects/status/yeuou6y2pxmwsjia/branch/main?svg=true)](https://ci.appveyor.com/project/Lgvju/courseproject-aqa-qamid/branch/main) 
 # Дипломная работа профессии "Тестировщик ПО"
 
 ### Данная работа представляет собой проект по автоматизированному тестированию web-приложения для покупки туристического тура.
